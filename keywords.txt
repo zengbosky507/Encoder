@@ -3,20 +3,20 @@
 #######################################
 
 #######################################
-# Datatypes (KEYWORD1) 数据类型关键字
+# Datatypes (KEYWORD1)
 #######################################
 
-Encoder        KEYWORD1
+Encoder	KEYWORD1
 
 #######################################
-# Methods and Functions (KEYWORD2) 方法类型关键字
+# Methods and Functions (KEYWORD2) 
 #######################################
 
-Test        KEYWORD2
+Test	KEYWORD2
 
 #######################################
-# Constants (LITERAL1)  常量类型关键字
+# Constants (LITERAL1) 
 #######################################
 
-Veloctity        LITERAL1
-Direction        LITERAL1
+Veloctity	LITERAL1
+Direction	LITERAL1
